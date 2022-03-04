@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-family: 'Londrina Shadow', cursive;
+    font-size: 40px;
+    margin: 20px;
+}
+            
+p {
+    font-family: 'League Spartan', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin: 30px;
+}
+        
+body {
+    background-color: #D5DBDB;
+}
+        
+h5{
+    text-align: center;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 18px;
+}
+        
+#carouselExampleControls {
+    width: 65%;
+    margin: auto;
+}
+
+.row {
+    margin: 10px;
+}
+
+#family {
+    width:400px;
+    border: 1px solid #555;
+}
+        
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
